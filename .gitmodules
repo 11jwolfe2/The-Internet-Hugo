@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/11jwolfe2/11jwolfe2.github.io.git
+[submodule "themes/Clean-Blog-Agency"]
+	path = themes/Clean-Blog-Agency
+	url = https://github.com/11jwolfe2/Clean-Blog-Agency.git
