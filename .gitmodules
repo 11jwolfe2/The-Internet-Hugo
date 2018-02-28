@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/11jwolfe2/11jwolfe2.github.io.git
