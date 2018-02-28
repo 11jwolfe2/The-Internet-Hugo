@@ -1,0 +1,10 @@
+modalID: 5
+title: Website Tutorial Part 1 
+subtitle: A beginners guide to node.js
+date: August 2017
+img: golden.png
+preview: golden-preview.png
+client: Not Used
+clientLink: Not Used
+category: Website Tutorial
+description: <p>I built the website you are looking at. I created a two part tutorial to show others how they can make their own website. Follow this link <a href="https://www.instructables.com/id/How-to-Build-a-Website-on-a-Raspberry-Pi-With-Node/">here</a> to get started on your own node.js website. </p> <p>You can download the source code from the <a href="https://github.com/11jwolfe2/TheInternet">Github repository</a>.</p>
