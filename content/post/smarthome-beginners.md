@@ -1,9 +1,10 @@
 +++
-categories = ["Smart Home", "Beginer"]
+categories = ["Smart Home", "Beginner"]
 date = "2018-03-01T13:02:10+00:00"
-tags = ["smarthome", "introduction", "beginer"]
+tags = ["Smarthome", "Introduction", "Beginner"]
 title = "Smart Home"
 description = "-A Beginners Guide"
+image = "img/posts/smarthome/beginner.jpg"
 +++
 
 So if you’re reading this article you might be thinking about changing your home to a smart home. So first let’s talk about what a smart home really is.
