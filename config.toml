@@ -20,8 +20,8 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Jack L. Wolfe III"
+  description = "This website is designed in hugo and is ment to be a personal site and blog. The site helps me learn new website design. Also allows me to document all of this design."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -34,7 +34,7 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
 
   #Blog Params Data
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Blog Description"
+  Description = "Welcome to The Blog"
   Author = "Jack Wolfe III"
   email = "theinternet.onthewifi@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)

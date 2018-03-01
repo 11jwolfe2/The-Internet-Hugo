@@ -1,5 +1,5 @@
 +++
-date = "2015-05-24T18:51:50+02:00"
+date = "2018-03-01T18:51:50+02:00"
 menu = "main"
 title = "About"
 type = "about"
@@ -7,8 +7,10 @@ weight = -190
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
+Hello and thank you for being interested in my blog! In this blog I hope to explore many different topics that I am passionate about such as smart home devices, website design, electronics, and many others.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
+If you have ideas on new topics I should cover please send me an email via my <a href="http://theinternet.onthewifi.com/contact">contact section.</a> 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.
+I will slowly be adding new blog posts over the begining of 2018, please bare with me as it will be slow going. After the begining as I am calling it I hope to do at least one blog post per week. I will also be documenting any new projects I acomplish on my landing <a href="theinternet.onthewifi.com/#portfolio">page</a>. 
+
+Once again welcome and thank you for being a Blog follower!
