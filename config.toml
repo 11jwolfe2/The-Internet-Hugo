@@ -6,6 +6,7 @@ theme = "Clean-Blog-Agency"
 canonifyurls = true
 paginate = 10
 disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
+copyright = "Code released under the Apache 2.0 license."
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analytics JS generation
@@ -345,3 +346,14 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
   name = "Archives"
   url = "/post/"
   weight = -150
+
+#Blog Footer Links
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/jackers723"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/11jwolfe2"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/jack.wolfeiii"
