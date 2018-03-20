@@ -18,33 +18,54 @@ I once heard someone talk about instant film and how it is a tangible memory, it
 
 Well ultimently this is a question you have to answer yourself, I can guide you and I defiently recomend one but its always your choice. But ask yourself these Questions:
 
-#### Do you want to make your memories even more memorable?
-#### Do you want to be the hit of the Party?
-#### Do you want a collection of timeless photos?
-#### Are you new to instant film?
-#### Are you expierence with instant film?
-#### Do you love Polaroids?
++ Do you want to make your memories even more memorable?
++ Do you want to be the hit of the Party?
++ Do you want a collection of timeless photos?
++ Are you new to instant film?
++ Are you expierence with instant film?
++ Do you love Polaroids?
 
 If you said yes to any of these questions or thought "Hmmm that sounds cool." then I say you should get one. It is a new way to take photos even for those of us that have been taking 600 film shots for years, or decades. 
 
 ## Things you might need
 
-## One Step 2
+### One Step 2
 
 Obviously you will the need the camera to shoot with. If you have an old polaroid you could start there, see my other blog post on [Different Types of Polaroids(/DifferentTypesOfPolaroids)].
 
-### Where to Buy?
-I personally got mine on [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.Xone+step+.TRS0&_nkw=one+step+2&_sacat=0) because I had a coupon, and it came with two packs of film. But if your looking online the best place is to get it direct for [Polaroid Originals Site](https://us.polaroidoriginals.com/products/onestep2-polaroid-camera?variant=971188568090). If you cant wait and are in a hurry you have two options. 
+#### Where to Buy?
 
-First is Amazon if your a prime member its free 2 day shipping.
++ [Polaroid Originals](https://us.polaroidoriginals.com/products/onestep2-polaroid-camera?utm_medium=cpc&utm_source=googlepla&variant=971188568090&gclid=CjwKCAjw4sLVBRAlEiwASblR-yyyixVk9HZtM4biRDmaPohaKMnw3BkDpAI3TXnHSoN3_u3dD49U8RoCwREQAvD_BwE) - $99.99
+    + They have 5%-10% Off Deals randomly
++ [Bestbuy](https://www.bestbuy.com/site/polaroid-originals-onestep-2-analog-instant-film-camera-white/6097905.p?skuId=6097905) - $99.99
+    + Use your rewards points to bring down the price
++ [Amazon](https://www.amazon.com/dp/B075H66KTT/ref=twister_B07775W3MQ?_encoding=UTF8&psc=1) - $99.99
++ [Target](https://www.target.com/p/polaroid-instant-camera-originals-white/-/A-52890727) -$99.99
+    + Red card will help you save 5%
++ [Ebay]() - Prices Vary
+    + Ebay has random coupons that might help you save money
 
-## Type 600I Film
+I personally got mine on [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.Xone+step+.TRS0&_nkw=one+step+2&_sacat=0) because I had a coupon, and it came with two packs of film. But if your looking online the best place is to get it direct for [Polaroid Originals Site](https://us.polaroidoriginals.com/products/onestep2-polaroid-camera?variant=971188568090). If you cant wait and are in a hurry try Amazon if your a Prime Member 2 day shipping. 
 
-This is the film used in the new One Step 2 as it does not have a battery in the film pack, this makes it about $3 per pack cheeper than type 600 film, at $15.99. 
+#### *Prices are as of March 2018. 
 
-### Where to Buy?
+### Type 600I Film
 
-#### Prices are as of March 2018. 
+This is the film used in the new One Step 2 as it does not have a battery in the film pack, this makes it about $3 per pack cheeper than type 600 film, at $15.99.
+
+## Where to Buy?
+
++ [Polaroid Originals]() - $15.99
+    + They have 5%-10% Off Deals randomly
++ [Bestbuy]() - $15.99
+    + Use your rewards points to bring down the price
++ [Amazon]() - $15.99
++ [Target]() -$15.99
+    + Red card will help you save 5%
++ [Ebay]() - Prices Vary
+    + Ebay has random coupons that might help you save money
+
+#### *Prices are as of March 2018. 
 
 ## Accessories
 
@@ -56,11 +77,11 @@ Thats really all you need to start shooting.
 
 # First Photos
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="500" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> Caption |  <img width="500" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="500" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img style='width:100%' alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|           |            |            |
+|:---------:|:----------:|:----------:|
+|![Image1](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image2](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image3](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
+|![Image4](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image5](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image6](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
+|![Image7](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image8](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image9](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
 
 ## Review
 

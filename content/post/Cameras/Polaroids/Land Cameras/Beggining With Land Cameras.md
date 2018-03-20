@@ -42,4 +42,4 @@ I recomend a [tripod](https://www.amazon.com/dp/B005KP473Q?ref_=ams_ad_dp_ovrl) 
 
 </center>
 
-For more on how to take shots and some of my other cameas read my other blog posts.
+For more on how to take shots and some of my other cameras read my other blog posts.
