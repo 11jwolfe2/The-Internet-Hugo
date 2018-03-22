@@ -42,7 +42,7 @@ Obviously you will the need the camera to shoot with. If you have an old polaroi
 + [Amazon](https://www.amazon.com/dp/B075H66KTT/ref=twister_B07775W3MQ?_encoding=UTF8&psc=1) - $99.99
 + [Target](https://www.target.com/p/polaroid-instant-camera-originals-white/-/A-52890727) -$99.99
     + Red card will help you save 5%
-+ [Ebay]() - Prices Vary
++ [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.Xone+step+.TRS0&_nkw=one+step+2&_sacat=0) - Prices Vary
     + Ebay has random coupons that might help you save money
 
 I personally got mine on [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR11.TRC1.A0.H0.Xone+step+.TRS0&_nkw=one+step+2&_sacat=0) because I had a coupon, and it came with two packs of film. But if your looking online the best place is to get it direct for [Polaroid Originals Site](https://us.polaroidoriginals.com/products/onestep2-polaroid-camera?variant=971188568090). If you cant wait and are in a hurry try Amazon if your a Prime Member 2 day shipping. 
@@ -55,14 +55,14 @@ This is the film used in the new One Step 2 as it does not have a battery in the
 
 ## Where to Buy?
 
-+ [Polaroid Originals]() - $15.99
++ [Polaroid Originals](https://us.polaroidoriginals.com/collections/film-for-i-type-cameras) - $15.99
     + They have 5%-10% Off Deals randomly
-+ [Bestbuy]() - $15.99
++ [Bestbuy](https://www.bestbuy.com/site/polaroid-originals-instant-film-8-sheets-white/6089941.p?skuId=6089941) - $15.99
     + Use your rewards points to bring down the price
-+ [Amazon]() - $15.99
-+ [Target]() -$15.99
++ [Amazon](https://www.amazon.com/Polaroid-Originals-Instant-Color-I-TYPE/dp/B075H4WWNZ/ref=sr_1_1_sspa?ie=UTF8&qid=1521740017&sr=8-1-spons&keywords=type+i+film&psc=1) - $15.99
++ [Target](https://www.target.com/p/instant-film-polaroid-originals/-/A-52891372) -$15.99
     + Red card will help you save 5%
-+ [Ebay]() - Prices Vary
++ [Ebay](https://www.ebay.com/sch/i.html?_odkw=type+i+film&_osacat=0&_from=R40&_trksid=p2045573.m570.l1311.R1.TR6.TRC1.A0.H0.Xi+film.TRS0&_nkw=i-type+film&_sacat=0) - Prices Vary
     + Ebay has random coupons that might help you save money
 
 #### *Prices are as of March 2018. 
@@ -85,4 +85,4 @@ Thats really all you need to start shooting.
 
 ## Review
 
-I have done an indepth review on this product [here](/OneStep2Review/).
+I have done an indepth review on this product [here](../review/).
