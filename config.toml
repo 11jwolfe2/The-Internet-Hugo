@@ -5,7 +5,7 @@ title = "The Internet"
 theme = "Clean-Blog-Agency"
 canonifyurls = true
 paginate = 10
-disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
+disqusShortname = "theinternet-onthewifi-com" #delete or comment to disable Disqus comments
 copyright = "Code released under the Apache 2.0 license."
 
 # Enter your tracking code to enable Google Analytics
@@ -40,7 +40,8 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
   email = "theinternet.onthewifi@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   showReadTime = true #set to false to exclude read time from header of post
-  #Ganalytics = "XX-00000000-0"
+  Comments = true #added to enable or disable Disqus comments on blog pages
+  
 
   # 404 error customization
   [params.error404]
