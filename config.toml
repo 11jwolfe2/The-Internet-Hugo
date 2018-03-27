@@ -107,19 +107,19 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
+      icon = "fa-microchip"
       title = "E-Design"
       description = "Board design is not just about making your thoughts into reality. It is about the pursuit of a more connected and working world"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
+      icon = "fa-cloud-upload"
       title = "IOT"
       description = "Passion for IOT has been there since the start. Connecting things help not just the individual but the community as well."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-lock"
+      icon = "fa-file-code-o"
       title = "Software"
       description = "Turning words into actions on very low levels.."
       url = "#"
