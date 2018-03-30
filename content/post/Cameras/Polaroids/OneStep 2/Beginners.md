@@ -73,11 +73,12 @@ A good tripod is nice to help you get in your own photos. The timer and flash ar
 
 # First Photos
 
-|           |            |            |
-|:---------:|:----------:|:----------:|
-|![Image1](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image2](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image3](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
-|![Image4](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image5](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image6](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
-|![Image7](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image8](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)| ![Image9](../../../../../img/posts/Cameras/Land Cameras/tripod.jpg)|
+|           |            |
+|:---------:|:----------:|
+|![Photo 1](../../../../../img/posts/Cameras/Onestep2/home 1.jpg) |![Photo 1](../../../../../img/posts/Cameras/Onestep2/home 2.jpg)|
+
+  
+##### *I've yet to have a perfect centered photo. I assume this is because I have yet to take the photo. My brother in photo 1 was completely cropped off :( .
 
 ## Review
 
