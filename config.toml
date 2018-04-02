@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://theinternet.onthewifi.com"
+baseurl = "https://theinternet.onthewifi.com"
 languageCode = "en-us"
 title = "The Internet"
 theme = "Clean-Blog-Agency"
