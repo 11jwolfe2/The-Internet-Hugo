@@ -1,0 +1,10 @@
+modalID: 6
+title: System for Workout Information Managment - S.W.I.M 
+subtitle: Senior Design Project
+date: 2016-01-14 
+img: SWIM.jpg
+preview: KiCad3DBoard.png
+client: Not Used
+clientLink: 
+category: College Project
+description: <p>S.W.I.M was designed for The University of Akron's women swim team.</p> <p>The projects was to retrofit a power rack workout mechine so that we could aquire repetition time, swim speed, weight per-rep, and distance traveled. To collect this data asensor array was designed and constructed. The system then displayed this information to any user over our website GUI. The project video can be found <a href= "https://www.youtube.com/watch?v=0puRJ8HO66c">here</a>. Our Final report can be found <a href="">here</a> and our code and design files are <a href="https://github.com/SDP-DT04">here</a>.</p>
