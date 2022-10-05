@@ -1,11 +1,11 @@
 # Site settings
-baseurl = "https://theinternet.onthewifi.com"
+baseurl = "https://jack-wolfe.com"
 languageCode = "en-us"
 title = "The Internet"
 theme = "Clean-Blog-Agency"
 canonifyurls = true
 paginate = 10
-disqusShortname = "theinternet-onthewifi-com" #delete or comment to disable Disqus comments
+disqusShortname = "jack-wolfe-com" #delete or comment to disable Disqus comments
 copyright = "Code released under the Apache 2.0 license."
 
 # Enter your tracking code to enable Google Analytics
@@ -41,7 +41,7 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   showReadTime = true #set to false to exclude read time from header of post
   Comments = true #added to enable or disable Disqus comments on blog pages
-  
+
 
   # 404 error customization
   [params.error404]
@@ -84,7 +84,7 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
     #  name = "External link"
     #  weight = 10
 
-    [[menu.postpend]]  
+    [[menu.postpend]]
       url = "/blog"
       name = "Blog"
       weight = 10
@@ -152,26 +152,38 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
     [[params.about.events]]
       img = "Uakron.jpg"
       date = "2012"
-      title = "My Humble Beginning"
+      title = "A humble beginning"
       description = "In 2012 I started my journey as an engineer at The University of Akron. Here I learned more about engineering, electronics and software than I ever knew there was. Since then I have been in volved in various teams and projects. "
 
     [[params.about.events]]
       img = "robo.JPG"
       date = "May 2012-2017"
-      title = "A Series of Robots"
+      title = "A series of robots."
       description = "After being in college for about 2 months I joined the NASA Robotics Mining Competition Team, formally the Nasa Lunabotics Team. While on this team I helped design, trouble shoot, win, and fail using various robots through the years."
 
     [[params.about.events]]
       img = "KiCad3DBoard.png"
       date = "April 2017"
-      title = "When Dedication Is Rewarded"
+      title = "When dedication is rewarded."
       description = "After three semesters, nearly 18 months, my Senior Design Team, DT04, was rewarded with the Dr. C. F. Chen Student Award for Design Excellence, for our development of S.W.I.M. System for Workout Information Management was designed to assist the women's swim team gather more workout metrics to assist in training."
 
     [[params.about.events]]
       img = "ias.png"
       date = "July 2017"
-      title = "Transition to Full Service"
-      description = "After Graduation I accepted a full time position at Inertial Aerospace. Here I work with an engineering team of eight to create modernized test equipment to facilitate the repair of Inertial Navigation Aircraft Equipment."
+      title = "Transition to full service."
+      description = "After Graduation I accepted a full time position at Inertial Aerospace. Here I worked with an engineering team of eight to create modernized test equipment to facilitate the repair of Inertial Navigation Aircraft Equipment."
+
+    [[params.about.events]]
+      img = "nasa-logo.png"
+      date = "May 2020"
+      title = "Dreams do come true."
+      description = "NASA was always the place I wanted to work when I grew up, and I did it. I worked at NASAs John Glenn Research center as part of the facilities division. I helped build and maintain the data acquisition system used among all the research labs. "
+
+    [[params.about.events]]
+      img = "hmb-logo.png"
+      date = "October 2021"
+      title = "A new beginning."
+      description = "After spending all of my working years in aerospace I began looking for the next goal. Turns out personal finance is no longer a hobby of mine, it is my career."
 
 
   # Team section
@@ -197,7 +209,7 @@ googleAnalytics = "UA-114968518-1" # delete or comment to disable Google Analyti
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "JW.png"
+      img = "JW2.jpg"
       name = "Jack Wolfe III"
       position = "Lead Marketer"
       reportsTo = ""
